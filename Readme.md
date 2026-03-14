@@ -866,7 +866,3 @@ TCL (Transaksiya):
 ```
 
 ---
-
-> 📝 **Hazırladı:** SQL & Relational Databases Study Guide
-> 🗓️ **Son Yenilənmə:** 2025
-> 🎯 **Hədəf:** PostgreSQL / MySQL uyğun sintaksis
