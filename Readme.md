@@ -1,4 +1,4 @@
-# 🗄️ SQL & Relational Databases 
+# 🗄️ SQL & Relational Databases — Tam Ders Materiali
 
 > **Səviyyə:** Başlanğıcdan Orta səviyyəyə
 > **Mövzular:** DDL · DML · DCL · TCL · SELECT · JOINs · Aggregate Functions
@@ -866,3 +866,4 @@ TCL (Transaksiya):
 ```
 
 ---
+
