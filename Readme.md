@@ -1,4 +1,4 @@
-# 🗄️ SQL & Relational Databases — Tam Ders Materiali
+# 🗄️ SQL & Relational Databases 
 
 > **Səviyyə:** Başlanğıcdan Orta səviyyəyə
 > **Mövzular:** DDL · DML · DCL · TCL · SELECT · JOINs · Aggregate Functions
