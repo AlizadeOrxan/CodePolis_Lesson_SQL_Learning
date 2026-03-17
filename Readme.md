@@ -1,9 +1,5 @@
 # 🗄️ SQL & Relational Databases — Tam Ders Materiali
 
-> **Səviyyə:** Başlanğıcdan Orta səviyyəyə
-> **Mövzular:** DDL · DML · DCL · TCL · SELECT · JOINs · Aggregate Functions
-> **Verilənlər Bazası:** PostgreSQL / MySQL uyğun sintaksis
-
 ---
 
 # 📚 Mündəricat
@@ -18,13 +14,11 @@
 8. [SELECT — Məlumat Oxumaq](#8-select--məlumat-oxumaq)
 9. [Aqreqat Funksiyalar & GROUP BY & HAVING](#9-aqreqat-funksiyalar--group-by--having)
 10. [SQL JOINs — Cədvəllərin Birləşdirilməsi](#10-sql-joins--cədvəllərin-birləşdirilməsi)
-11. [Master Tips & Best Practices](#11-master-tips--best-practices)
 
 ---
 
 # 1. Verilənlər Bazasının Əsasları
 
-## 💡 Nəzəriyyə
 
 **Verilənlər Bazası (Database)** — məlumatların məntiqi və strukturlaşdırılmış şəkildə saxlandığı, idarə olunduğu sistemdir.
 
@@ -45,7 +39,6 @@
 
 # 2. Məlumat Tipləri
 
-## 💡 Nəzəriyyə
 
 Hər sütun, hansı növ məlumat saxlayacağını müəyyən edən bir **Data Type**-a malik olmalıdır. Yanlış tip seçimi həm performans, həm də məlumat bütövlüyü problemlərinə yol aça bilər.
 
@@ -77,7 +70,6 @@ CREATE TABLE Employees (
 
 # 3. Kontrantlar (Constraints)
 
-## 💡 Nəzəriyyə
 
 Kontrantlar cədvəldəki məlumatların **düzgünlüyünü**, **etibarlılığını** və **əlaqəliliyini** təmin edən qaydalardır. Onlar məlumat daxil edilərkən avtomatik olaraq yoxlanılır.
 
