@@ -1,7 +1,6 @@
 # 🗄️ SQL & Relational Databases — Tam Ders Materiali
 
 ---
-
 # 📚 Mündəricat
 
 1. [Verilənlər Bazasının Əsasları](#1-verilənlər-bazasının-əsasları)
